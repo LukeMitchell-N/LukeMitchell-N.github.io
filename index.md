@@ -2,30 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Recent Projects 
 
-[Geospatial analysis for disaster planning](/sample_page)
+[Geospatial Analysis for Disaster Planning](/sample_page)
 <img src="images/geospatial.jpg?raw=true"/>
-[Github](http://example.com/)
 
 ---
-[Snowfall Simulation with OpenGL and OpenCL](/sample_page)
+[Snowfall Simulation using OpenGL and OpenCL](https://github.com/LukeMitchell-N/Snow-Simulation)
 <img src="images/snow.jpg?raw=true"/>
-[Github](http://example.com/)
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
 
 
 ---
