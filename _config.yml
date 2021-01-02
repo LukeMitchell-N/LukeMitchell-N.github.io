@@ -1,10 +1,14 @@
 title: Luke Mitchell # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Student of Computer Science
- at Oregon State University 
+  Student of computer science 
+  <br />
+  at Oregon State University 
   <br><br>
-  <a href="https://www.linkedin.com/in/luke-mitchell-151b81202/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/luke-mitchell-151b81202/">LinkedIn</a>
+  <br />
+  <a href="https://github.com/LukeMitchell-N">Github</a> 
+
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
