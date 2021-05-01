@@ -4,12 +4,10 @@
 
 ### Recent Projects 
 
-[Geospatial Analysis for Disaster Planning](/sample_page)
-<img src="images/geospatial.jpg?raw=true"/>
+[Geospatial Analysis for Disaster Planning](/capstone)
 
 ---
 [Snowfall Simulation using OpenGL and OpenCL](https://github.com/LukeMitchell-N/Snow-Simulation)
-<img src="images/snow.jpg?raw=true"/>
 
 
 ---
