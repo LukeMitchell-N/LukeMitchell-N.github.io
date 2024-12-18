@@ -3,6 +3,7 @@
 ---
 
 ### Recent Projects 
+[Transit Service Area Tool](/TransitServiceArea)
 
 [Geospatial Analysis for Disaster Planning](/capstone)
 
