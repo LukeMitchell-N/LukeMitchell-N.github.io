@@ -11,10 +11,11 @@ The tool was written in Python and returns three layers representing the section
 # Script Details
 To create the script I used publicly available GIS data from trimet that included their routes and stop locations. 
 I obtained and cleaned a spreadsheet contaiing departure times for each route from each stop to create average velocities and time between departures for each line. This information is used to generate a service area.
-<img src="images/TransitServiceAreaFlowchart"/>
+<br>
+<img src="images/TransitServiceAreaFlowchart.png"/>
 
 
 ## [Repository](https://github.com/LukeMitchell-N/PortlandTransitIsochrone)
 
 ## Image Gallery
-<img src="images/Skatepark Accessibility"/>
+<img src="images/Skatepark Accessibility.png"/>
