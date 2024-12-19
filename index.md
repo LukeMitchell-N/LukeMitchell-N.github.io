@@ -3,7 +3,9 @@
 ---
 
 ### Recent Projects 
-[Transit Service Area Tool](/TransitServiceArea)
+[Portland Metro Transit Service Area Tool](/TransitServiceArea)
+
+[Portland Metro Transit Connectivity](/TransitConnectivity)
 
 [Geospatial Analysis for Disaster Planning](/capstone)
 
