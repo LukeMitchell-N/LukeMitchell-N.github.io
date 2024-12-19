@@ -16,5 +16,5 @@ The GenerateRouteConnectivityScore script buffers 300 feet around all stops on a
 ## [Repository](https://github.com/LukeMitchell-N/PortlandTransitConnectivityMap/tree/main)
 
 ## Image Gallery
-<img src="TransitAccess.png"/>
-<img src="TrimetRoutesConnectivity.pdf"/>
+<img src="images/TransitAccess.png"/>
+<img src="images/TrimetRoutesConnectivity.pdf"/>
